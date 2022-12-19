@@ -21,4 +21,4 @@ Clone Project
 
 Get latest updates
 -------------------
-1 - git pull origin div
+1 - git pull origin master
