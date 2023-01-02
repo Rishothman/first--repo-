@@ -22,3 +22,7 @@ Clone Project
 Get latest updates
 -------------------
 1 - git pull origin master
+
+Switch between branches
+------------------------
+1- git checkut -b <branch_name>
